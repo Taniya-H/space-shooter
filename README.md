@@ -52,7 +52,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya-H&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff006e&text_color=eee&layout=compact)](https://github.com/Taniya-H)
 
 ---
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
