@@ -6,7 +6,7 @@
 
 </p>
 
-<h2>💫 About Me:</h2><br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐 because focusing on one thing is clearly not my personality type.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
+<h2>💫 About Me:</h2><br>Hey, I'm Taniya Halder 👋<br>I'm a first-year BS in Data Science student at IIT Madras, currently juggling<br>AI/ML 🤖, mern‑stack web dev 💻, and cybersecurity 🔐.<br>I like breaking things to understand them, then rebuilding them cleaner 🏗️.<br>If you see messy repos here, that's just work-in-progress brain dumps 🧠, not abandoned dreams (hopefully) 🤞
 
 ---
 
